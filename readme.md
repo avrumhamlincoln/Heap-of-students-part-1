@@ -43,7 +43,7 @@ init month to 0
 init year to 0
 ```
 
-#Date.init(dd/mm/yyyy)
+#Date.init(mm/dd/yyyy)
 
 ```
 take dd and set it to day
