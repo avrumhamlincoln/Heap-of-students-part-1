@@ -17,5 +17,6 @@ class Student{
 		Student();
 		void init(std::string fName, std::string lName, std::string street, std::string city, std::string state, std::string zip, std::string bDate, std::string gDate, int credits);
 		void printStudent();
-}
+};
 
+#endif

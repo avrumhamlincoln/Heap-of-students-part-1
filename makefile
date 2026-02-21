@@ -10,6 +10,9 @@ address.o: address.cpp address.h
 date.o: date.cpp date.h
 	g++ -g -c date.cpp
 
+studetn.o: student.cpp date.h
+	g++ -g -c studetn.cpp
+
 run: students
 	./students
 
